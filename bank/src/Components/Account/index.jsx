@@ -3,7 +3,7 @@ import styled from "styled-components";
 import privado from "../../assets/images/privado.svg";
 import ojo from "../../assets/images/ojo.svg";
 import dinero from "../../assets/images/dinero.svg";
-import { Icono, Box, Btn, Saldo, Detalle } from "../Ui";
+import { Icono, Box, Btn, Saldo, Detalle } from "../UI";
 
 const IconoMargin = styled(Icono)`
   margin-top: 2px;
