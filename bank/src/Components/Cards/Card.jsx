@@ -27,8 +27,8 @@ export default ({ cargo }) => {
     <Card>
       {ImageFilter(type)}
       <Info>
-        <span className="type">{type}</span>
-        <span>{from}</span>
+        <span className="type">{type}</span>-
+        <span>{from}</span>- 
         <span>{value}</span>
       </Info>
       <span>{date}</span>
